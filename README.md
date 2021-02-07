@@ -1,4 +1,4 @@
-# Play2Win
+# League Tracker
 
 ## What and why?
 The system would be where one can able to create a "league" and then could add teams and it would be a way for people to organize the way they are playing basketball, or any other competitive activity, along with keeping track of individual statisitcs.

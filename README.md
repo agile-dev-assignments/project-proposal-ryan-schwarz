@@ -19,4 +19,7 @@ The regular user will have a dashboard of their leagues they are in and will be 
 ## Scope
 This proposal is perfectly balanced for a group project as there are several different components and user types to make this idea work. This would make it very easy to divide the work among 4-6 people.
 
+## Collaborators
+Yuval Rubenstein
+
 
